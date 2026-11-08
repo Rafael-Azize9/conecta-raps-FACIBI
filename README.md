@@ -189,7 +189,7 @@ Este é um **guia informativo** e não substitui os canais oficiais de atendimen
 
 ## 📚 Contexto acadêmico
 
-Desenvolvido como projeto de disciplina do curso de **Psicologia** — **8º semestre** da **FACIBI** (Faculdade de Ciências do Interior do Bahia), semestre **2026.2**.
+Desenvolvido como projeto de disciplina do curso de **Psicologia** — **8º semestre** da **FACIBI** (Faculdade da Serra da Ibiapaba), semestre **2026.2**.
 
 ---
 
