@@ -191,8 +191,6 @@ Este é um **guia informativo** e não substitui os canais oficiais de atendimen
 
 Desenvolvido como projeto de disciplina do curso de **Psicologia** — **8º semestre** da **FACIBI** (Faculdade de Ciências do Interior do Bahia), semestre **2026.2**.
 
-**Autor:** [Rafael Azize](https://github.com/Rafael-Azize9)
-
 ---
 
 ## 📄 Licença
